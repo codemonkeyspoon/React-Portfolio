@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.822cd7fc.css",
-    "main.js": "/static/js/main.9f5e9e54.js",
-    "static/media/project2.PNG": "/static/media/project2.1eb2e439f0ebacb85294.PNG",
-    "static/media/self.png": "/static/media/self.11483bbcf14c9a604423.png",
-    "static/media/dis-Covermusic.PNG": "/static/media/dis-Covermusic.077be6d3e36e883f4750.PNG",
-    "index.html": "/index.html",
-    "main.822cd7fc.css.map": "/static/css/main.822cd7fc.css.map",
-    "main.9f5e9e54.js.map": "/static/js/main.9f5e9e54.js.map"
+    "main.css": "/React-Portfolio/static/css/main.822cd7fc.css",
+    "main.js": "/React-Portfolio/static/js/main.e13e2b22.js",
+    "static/media/project2.PNG": "/React-Portfolio/static/media/project2.1eb2e439f0ebacb85294.PNG",
+    "static/media/self.png": "/React-Portfolio/static/media/self.11483bbcf14c9a604423.png",
+    "static/media/dis-Covermusic.PNG": "/React-Portfolio/static/media/dis-Covermusic.077be6d3e36e883f4750.PNG",
+    "index.html": "/React-Portfolio/index.html",
+    "main.822cd7fc.css.map": "/React-Portfolio/static/css/main.822cd7fc.css.map",
+    "main.e13e2b22.js.map": "/React-Portfolio/static/js/main.e13e2b22.js.map"
   },
   "entrypoints": [
     "static/css/main.822cd7fc.css",
-    "static/js/main.9f5e9e54.js"
+    "static/js/main.e13e2b22.js"
   ]
 }
