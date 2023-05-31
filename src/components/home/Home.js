@@ -68,9 +68,9 @@ export default function Home({ darkMode }) {
           justifyContent={'center'}
           fontSize={{ xs: '2rem', md: '2.5rem' }}
         >
-          {/* {info.socials.map((social, index) => (
+          {info.socials.map((social, index) => (
             <SocialIcon key={index} link={social.link} icon={social.icon} label={social.label} />
-          ))} */}
+          ))}
         </Box>
       </Box>
     </Box>

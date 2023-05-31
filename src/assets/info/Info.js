@@ -1,6 +1,10 @@
 import self from '../img/self.png';
 import project1 from '../img/dis-Covermusic.PNG'
 import project2 from '../img/project2.PNG'
+import project3 from '../img/project3.PNG'
+import project4 from '../img/project4.PNG'
+import project5 from '../img/project5.PNG'
+import project6 from '../img/project6.PNG'
 import { colors } from '../colors/mainGradient';
 
 export const info = {
@@ -26,33 +30,33 @@ export const info = {
       text: 'xjwithers@gmail.com',
     },
   ],
-  // socials: [
-  //   {
-  //     link: '', // this should be https://yourname.com/resume.pdf once you've deployed
-  //     icon: 'fa fa-file',
-  //     label: 'resume',
-  //   },
-  //   {
-  //     link: '',
-  //     icon: 'fa fa-instagram',
-  //     label: 'instagram',
-  //   },
-  //   {
-  //     link: '',
-  //     icon: 'fa fa-github',
-  //     label: 'github',
-  //   },
-  //   {
-  //     link: '',
-  //     icon: 'fa fa-linkedin',
-  //     label: 'linkedin',
-  //   },
-  //   {
-  //     link: '',
-  //     icon: 'fa fa-twitter',
-  //     label: 'twitter',
-  //   },
-  // ],
+  socials: [
+    {
+      link: 'https://codemonkeyspoon.github.io/React-Portfolio/resume.pdf', // this should be https://yourname.com/resume.pdf once you've deployed
+      icon: 'fa fa-file',
+      label: 'resume',
+    },
+    // {
+    //   link: '',
+    //   icon: 'fa fa-instagram',
+    //   label: 'instagram',
+    // },
+    {
+      link: 'https://github.com/codemonkeyspoon',
+      icon: 'fa fa-github',
+      label: 'github',
+    },
+    // {
+    //   link: '',
+    //   icon: 'fa fa-linkedin',
+    //   label: 'linkedin',
+    // },
+    // {
+    //   link: '',
+    //   icon: 'fa fa-twitter',
+    //   label: 'twitter',
+    // },
+  ],
   bio: "Hello! I'm Xaviar Witherspoon. I'm a Full Stack Developer. I studied software development at Keiser University and taken a web-development boot-camp out of UCF, I enjoy building web applications and learning new technologies.",
   skills: {
     // you dont havew to strictly follow the 'languages', 'frameworks', 'databases', 'cloudServices', and 'tools' categories. You can add your own if you'd like.
@@ -106,6 +110,30 @@ export const info = {
       live: 'https://social-revue.herokuapp.com',
       source: 'https://github.com/codemonkeyspoon/Social-Revue',
       image: project2,
+    },
+    {
+      title: 'SPA Weather App - Shows API and Javascript prowess',
+      live: 'https://codemonkeyspoon.github.io/Weather-Dashboard/', //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+      source: 'https://github.com/codemonkeyspoon/Weather-Dashboard', // this should be a link to the **repository** of the project, where the code is hosted.
+      image: project3,
+    },
+    {
+      title: 'JATE, just another text editor',
+      live: 'https://jate-x.herokuapp.com',
+      source: 'https://github.com/codemonkeyspoon/JATE-Text-Editor',
+      image: project4,
+    },
+    {
+      title: 'Tech Blog - A blog style website with login and authentication',
+      live: 'https://tech-x-blog.herokuapp.com', //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+      source: 'https://github.com/codemonkeyspoon/tech-blog', // this should be a link to the **repository** of the project, where the code is hosted.
+      image: project5,
+    },
+    {
+      title: 'Social Revue - A reddidt style full-stack application',
+      live: 'https://codemonkeyspoon.github.io/Javascript-Password-Generator/',
+      source: 'https://github.com/codemonkeyspoon/Javascript-Password-Generator',
+      image: project6,
     },
   ],
 };
