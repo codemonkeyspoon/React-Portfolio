@@ -5,6 +5,7 @@ import project3 from '../img/project3.PNG'
 import project4 from '../img/project4.PNG'
 import project5 from '../img/project5.PNG'
 import project6 from '../img/project6.PNG'
+import project7 from '../img/project7.PNG'
 import { colors } from '../colors/mainGradient';
 
 export const info = {
@@ -130,10 +131,16 @@ export const info = {
       image: project5,
     },
     {
-      title: 'Social Revue - A reddidt style full-stack application',
+      title: 'Javascript PW Gen - A Javascript password generator',
       live: 'https://codemonkeyspoon.github.io/Javascript-Password-Generator/',
       source: 'https://github.com/codemonkeyspoon/Javascript-Password-Generator',
       image: project6,
+    },
+    {
+      title: 'Threadi - A MERN stack application for creating and sharing threads',
+      live: 'https://threadi-mern-fullstack.herokuapp.com/',
+      source: 'https://github.com/Jamesgit22/Threadi',
+      image: project7,
     },
   ],
 };
